@@ -1,0 +1,10 @@
+[
+    {"movie": "Spider-Man (2002)", "earnings": 825},
+    {"movie": "Spider-Man 2 (2004)", "earnings": 788},
+    {"movie": "Spider-Man 3 (2007)", "earnings": 895},
+    {"movie": "The Amazing Spider-Man (2012)", "earnings": 758},
+    {"movie": "The Amazing Spider-Man 2 (2014)", "earnings": 709},
+    {"movie": "Spider-Man: Homecoming (2017)", "earnings": 880},
+    {"movie": "Spider-Man: Far From Home (2019)", "earnings": 1132},
+    {"movie": "Spider-Man: No Way Home (2021)", "earnings": 1921}
+]
